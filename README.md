@@ -1,6 +1,6 @@
 # aoi.js CLI (unofficial)
 
-The aoi.js Bot Template Builder CLI is a command-line tool designed to simplify and expedite the process of generating bot templates for AOI.js Discord bots. This tool helps developers quickly set up the foundation for their AOI.js-powered Discord bots by creating boilerplate code and installing essential dependencies.
+The aoi.js Bot Template Builder CLI is a command-line tool designed to simplify and expedite the process of generating bot templates for aoi.js Discord bots. This tool helps developers quickly set up the foundation for their aoi.js-powered Discord bots by creating boilerplate code and installing essential dependencies.
 
 ## Features
 
